@@ -1,87 +1,95 @@
 <div align="center">
 
 # Chung Hoang Van 👋
-### **Java / Backend Developer | Microservices & AI ⚙️⚡🧬🧠**
+### **Java Backend Developer | Spring Boot • Microservices • AI • DevOps**
 
----
+> Sinh viên CNTT — mạnh Backend Java, làm được Frontend, hướng tới Microservices + AI Integration.
+
+[![Profile Views](https://komarev.com/ghpvc/?username=chunghoang123&color=blueviolet)](https://github.com/chunghoang123)
 
 </div>
 
-<!-- Hàng chứa Tech Stack và Featured Projects -->
-<table border="0" style="border: none; border-collapse: collapse; width: 100%;">
-  <tr style="border: none;">
-    <!-- CỘT BÊN TRÁI: TECH STACK & TOOLS -->
-    <td width="50%" valign="top" style="border: none; padding-right: 10px;">
-      <h3>🎙️ Tech Stack & Tools</h3>
-      <table border="0" style="border: none; border-collapse: separate; border-spacing: 8px; width: 100%;">
-        <tr>
-          <!-- Java 21 -->
-          <td align="center" bgcolor="#1e1e2e" style="border: 2px solid #ff5555; border-radius: 12px; padding: 15px;">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-playbook/master/resources/gifs/java.gif" width="36" height="36"/><br/>
-            <b style="color: #ffffff;">Java 21</b>
-          </td>
-          <!-- Spring Boot 3 -->
-          <td align="center" bgcolor="#1e1e2e" style="border: 2px solid #50fa7b; border-radius: 12px; padding: 15px;">
-            <img src="https://img.icons8.com/color/48/spring-boot.png" width="36" height="36"/><br/>
-            <b style="color: #ffffff;">Spring Boot 3</b>
-          </td>
-          <!-- Spring Cloud -->
-          <td align="center" bgcolor="#1e1e2e" style="border: 2px solid #50fa7b; border-radius: 12px; padding: 15px;">
-            <img src="https://img.icons8.com/color/48/cloud-lighting.png" width="36" height="36"/><br/>
-            <b style="color: #ffffff;">Spring Cloud</b>[cite: 2]
-          </td>
-        </tr>
-        <tr>
-          <!-- Kafka -->
-          <td align="center" bgcolor="#1e1e2e" style="border: 2px solid #6272a4; border-radius: 12px; padding: 15px;">
-            <img src="https://img.icons8.com/color/48/apache-kafka.png" width="36" height="36"/><br/>
-            <b style="color: #ffffff;">Kafka</b>[cite: 2]
-          </td>
-          <!-- Redis -->
-          <td align="center" bgcolor="#1e1e2e" style="border: 2px solid #ff5555; border-radius: 12px; padding: 15px;">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-playbook/master/resources/gifs/redis.gif" width="36" height="36"/><br/>
-            <b style="color: #ffffff;">Redis</b>[cite: 2]
-          </td>
-          <!-- PostgreSQL -->
-          <td align="center" bgcolor="#1e1e2e" style="border: 2px solid #8be9fd; border-radius: 12px; padding: 15px;">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-playbook/master/resources/gifs/postgresql.gif" width="36" height="36"/><br/>
-            <b style="color: #ffffff;">PostgreSQL</b>[cite: 2]
-          </td>
-        </tr>
-      </table>
-    </td>
+---
 
-    <!-- CỘT BÊN PHẢI: FEATURED PROJECTS -->
-    <td width="50%" valign="top" style="border: none; padding-left: 10px;">
-      <h3>📁 Featured Projects</h3>[cite: 2]
-      <table border="0" style="border: none; border-collapse: separate; border-spacing: 8px; width: 100%;">
-        <tr>
-          <!-- Card Dự án 1 -->
-          <td bgcolor="#1e1e2e" style="border: 2px solid #bd93f9; border-radius: 12px; padding: 15px;" valign="top">
-            <p align="center">
-              <img src="https://img.icons8.com/gradient-geometry/100/folder-invoices.png" width="80"/><br/>
-              <b style="color: #ffffff; font-size: 14px;">E-commerce & Flash Sale ⏰🔥</b>[cite: 2]
-            </p>
-          </td>
-          <!-- Card Dự án 2 -->
-          <td bgcolor="#1e1e2e" style="border: 2px solid #bd93f9; border-radius: 12px; padding: 15px;" valign="top">
-            <p align="center">
-              <img src="https://img.icons8.com/fluent/100/artificial-intelligence.png" width="80"/><br/>
-              <b style="color: #ffffff; font-size: 14px;">AI Integration 🤖</b>[cite: 2]
-            </p>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+## 🙋‍♂️ About Me
 
-<br/>
+- 💻 Đã học: **Spring Boot, HTML / CSS / JS, React.js, Microservices, Java Web**
+- ☕ Java từ cơ bản → nâng cao: `IT203A Java Fundamental`, `IT203B Java Advanced`, `IT210 Java Web Application`, `IT211 Java Web Service`
+- 🧩 System: `IT105 Phân tích thiết kế hệ thống`, `IT201 Cấu trúc dữ liệu & Giải thuật`, `IT202 Cơ sở dữ liệu`
+- 🤖 AI: `IT-212 AI Application in Action`, `IT-213 AI Integration in Action`
+- 🏗️ Architecture: `IT-214 Microservices System Design`
+- ⚙️ DevOps: `IT-209 DevOps Fundamentals`
+- 👥 Kỹ năng mềm: `SKL01 Teamwork & Giải quyết xung đột`, `IT106 Agile / Scrum`
+- 🌐 Khác: `Lập trình C`, `JS Web App`, `Tiếng Nhật 2 (JPN205)`, `Thực tập kỳ II`
 
-<!-- PHẦN GITHUB ANALYTICS KHU VỰC DƯỚI -->
-<h3>🐙 GitHub Analytics ✨</h3>[cite: 2]
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📚 Learning Journey
+
+| Nhóm | Môn đã học |
+|------|------------|
+| Java Core | IT203A Java Fundamental, IT203B Java Advanced, IT201 DSA, RL-IT102 Lập trình C |
+| Java Web | IT210 Java Web Application, IT211 Java Web Service, IT202 Cơ sở dữ liệu |
+| Frontend | IT104 React.js, RL-IT103B Web với Javascript, HTML/CSS/JS |
+| System & Agile | IT105 Phân tích thiết kế HT, IT106 Agile/Scrum, SKL01 Teamwork |
+| New Tech | IT-212 AI Application, IT-213 AI Integration, IT-214 Microservices Design, IT-209 DevOps |
+
+---
+
+## 📁 Featured Directions
+
+- 🛒 **E-commerce & Flash Sale** — Spring Boot + Redis + Kafka, tối ưu concurrent.
+- 🤖 **AI Integration** — tích hợp AI vào app Java / Web service.
+- 🧱 **Microservices Practice** — chia service, API Gateway, config & discovery.
+
+> Muốn xem code chi tiết? Ghé tab **Repositories** — mình push bài tập theo từng session (session05 → session07, homework ex1-ex5).
+
+---
+
+## 🐙 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=bd93f9&text_color=f8f8f2" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=bd93f9&text_color=f8f8f2" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chunghoang123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=bd93f9&text_color=f8f8f2" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunghoang123&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=bd93f9&text_color=f8f8f2" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chunghoang123&theme=tokyonight&hide_border=true&background=1e1e2e" width="70%" />
+</p>
+
+---
+
+<div align="center">
+
+### 📫 Connect with me
+[![GitHub](https://img.shields.io/badge/GitHub-chunghoang123-181717?style=flat&logo=github)](https://github.com/chunghoang123)
+
+*Backend & Frontend — học chắc Java, làm được web hoàn chỉnh.*
+
+</div>
