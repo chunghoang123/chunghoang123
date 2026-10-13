@@ -23,6 +23,8 @@
 - 🌐 Khác: `Lập trình C`, `JS Web App`, `Tiếng Nhật 2 (JPN205)`, `Thực tập kỳ II`
 
 ---
+## Dự Án Đã Làm
+ - https://chung-ai.io.vn/
 
 ## 🛠️ Tech Stack
 
